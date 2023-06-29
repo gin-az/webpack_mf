@@ -1,0 +1,1 @@
+export { WellcomeScreen as default } from './WellcomeScreen';
